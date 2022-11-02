@@ -1,6 +1,6 @@
 ## Calculator
 
-<img width="277" alt="Знімок екрана 2022-11-01 о 22 14 27" src="https://user-images.githubusercontent.com/109367230/199342948-ebb04ea8-bde1-4b3a-9afa-ffc9add44ce3.png">
+<img width="419" alt="Знімок екрана 2022-11-02 о 10 07 43" src="https://user-images.githubusercontent.com/109367230/199449283-3a3db2e7-505e-4a21-9cfb-9bc221d9270e.png">
 
 ## Goal
 Creating calculating app.
@@ -11,3 +11,9 @@ Creating calculating app.
 * Understand internal, external parameters.
 * Understand about access levels.
 * How to use tuples.
+
+## Documentation
+
+https://docs.swift.org/swift-book/LanguageGuide/AccessControl.html
+
+https://docs.swift.org/swift-book/ReferenceManual/Types.html#grammar_tuple-type
